@@ -1,7 +1,7 @@
 # Olá, eu sou Henrique Navarro Morais! 👋
 
 ## Sobre mim
-- 🎓 Estudante do 9º período de Engenharia no Institudo Federal.
+- 🎓 Estudante do 9º período de Engenharia no Instituto Federal.
 - 💻 Programador Java com Spring Boot.
 - 🐳 Experiência com Docker.
 - 🐰 Desenvolvimento de microserviços utilizando RabbitMQ.
