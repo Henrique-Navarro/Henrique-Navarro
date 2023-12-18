@@ -6,18 +6,13 @@
 - 🐳 Experiência com Docker.
 - 📬 Conhecimento em Postman para testes de API.
 - 🛢️ Bancos de Dados PostgreSQL e MySQL.
-
-## Habilidades
-- Linguagens: Java, SQL
-- Frameworks: Spring Boot
-- Ferramentas: Docker, Postman
-- Bancos de Dados: PostgreSQL, MySQL
+- 🪪 Interesse em microserviços e sistemas backend.
 
 ## Contato
 - 📧 Email: [henriquenavarromorais@gmail.com](mailto:henriquenavarromorais@gmail.com)
-- 🔗 LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seuperfil)
+- 🔗 LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ## Projetos
 - 👨‍💻 Confira alguns dos meus projetos no meu perfil do GitHub!
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)](https://github.com/seuusuario)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Henrique-Navarro&show_icons=true&theme=dark)](https://github.com/Henrique-Navarro)
