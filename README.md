@@ -4,9 +4,10 @@
 - 🎓 Estudante do 9º período de Engenharia no Institudo Federal.
 - 💻 Programador Java com Spring Boot.
 - 🐳 Experiência com Docker.
+- 🐰 Desenvolvimento de microserviços utilizando RabbitMQ.
 - 📬 Conhecimento em Postman para testes de API.
 - 🛢️ Bancos de Dados PostgreSQL e MySQL.
-- 🪪 Interesse em microserviços e sistemas backend.
+- 🪪 Interesse em sistemas backend.
 
 ## Contato
 - 📧 Email: [henriquenavarromorais@gmail.com](mailto:henriquenavarromorais@gmail.com)
