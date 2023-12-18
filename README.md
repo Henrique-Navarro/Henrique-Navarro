@@ -10,7 +10,7 @@
 
 ## Contato
 - 📧 Email: [henriquenavarromorais@gmail.com](mailto:henriquenavarromorais@gmail.com)
-- 🔗 LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- 🔗 LinkedIn: [Henrique Navarro Morais](https://www.linkedin.com/in/henrique-navarro-morais-5532ab1a4/)
 
 ## Projetos
 - 👨‍💻 Confira alguns dos meus projetos no meu perfil do GitHub!
