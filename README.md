@@ -3,7 +3,8 @@
 ## Sobre mim
 - 🎓 Estudante do 9º período de Engenharia no Instituto Federal.
 - 💻 Programador Java com Spring Boot.
-- 🖥️ Programador Javascript com NodeJS
+- 🖥️ Programador Javascript com NodeJS.
+- 🐘 Programador Php.
 - 🐳 Experiência com Docker.
 - 🐰 Desenvolvimento de microserviços utilizando RabbitMQ.
 - 📬 Conhecimento em Postman para testes de API.
