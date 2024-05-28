@@ -14,7 +14,7 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
 
 ## 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-DD0031?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -43,5 +43,3 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
 </div>
 
 ---
-
-Obrigado pela visita! Se você tiver alguma pergunta ou quiser colaborar em algum projeto, sinta-se à vontade para entrar em contato.
