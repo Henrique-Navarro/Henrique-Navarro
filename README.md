@@ -21,6 +21,5 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
 
 ## 📈 Estatísticas do GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Navarro&theme=dark)](https://github.com/Henrique-Navarro)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Henrique-Navarro&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/Henrique-Navarro)
 
 ---
