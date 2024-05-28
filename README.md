@@ -30,7 +30,7 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
   <a href="https://github.com/Henrique-Navarro">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:henriquenavarromorais@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
