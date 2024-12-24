@@ -29,19 +29,8 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
   <a href="https://www.linkedin.com/in/henrique-navarro/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="mailto:henriquenavarromorais@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282020%29.svg" alt="Gmail" width="50" height="50"/>
-  </a>
   <a href="https://github.com/Henrique-Navarro" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   </a>
 </div>
 
-## 📈 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/Henrique-Navarro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique-Navarro&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
-
----
