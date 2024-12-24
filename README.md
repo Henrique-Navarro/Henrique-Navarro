@@ -30,7 +30,7 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="mailto:henriquenavarromorais@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Logo.svg" alt="Gmail" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="50" height="50"/>
   </a>
   <a href="https://github.com/Henrique-Navarro" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
@@ -44,4 +44,3 @@ Sou um entusiasta de tecnologia com um forte interesse em compiladores e várias
     <img src="https://streak-stats.demolab.com/?user=Henrique-Navarro&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
-
